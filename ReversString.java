@@ -1,6 +1,6 @@
 import java.nio.charset.StandardCharsets;
 
-public class Main {
+public class ReversString {
 
     public static void main(String[] args) {
     
